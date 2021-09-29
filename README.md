@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alessandrodias-agco
-- 👀 I’m interested in Software Engineering/Architecture - Agile philosophy and processes
+- 👋 Hi, I’m Alessandro Valẽrio Dias - I am from Porto Alegre/RS/Brazil
+- 👀 I’m interested in Software Engineering/Architecture - Agile philosophy and processes / also love psychology and gaming (video, board, RPG's)
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on many software development projects and products - being part of awesome teams building great solutions
 - 📫 How to reach me @alessandro_dias (Twitter)
